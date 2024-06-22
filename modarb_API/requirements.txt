@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+datasets
+transformers 
+accelerate 
+evaluate  
+bitsandbytes 
+accelerate 
+einops
+Pillow
+torch
+torchvision
+

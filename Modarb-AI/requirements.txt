@@ -1,0 +1,11 @@
+opencv-python-headless
+datasets
+transformers 
+accelerate 
+evaluate  
+bitsandbytes 
+accelerate 
+einops
+Pillow
+torch
+torchvision
